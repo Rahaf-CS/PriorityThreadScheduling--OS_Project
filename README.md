@@ -14,4 +14,4 @@ And a text file to test!
 
 There are definetly some room for improvment. *
 
-By: Layan, Nada, Rahaf, and Sara
+By:  Rahaf, Layan, Nada, and Sara
